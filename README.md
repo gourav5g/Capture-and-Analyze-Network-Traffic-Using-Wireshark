@@ -42,7 +42,7 @@
 
 ---
 
-## 📄 Sample Summary Report
+## 📄 Summary Report
 
 ### 📌 Title: Network Traffic Analysis Using Wireshark
 
@@ -169,7 +169,5 @@ This report presents an analysis of captured network traffic using **Wireshark**
 ✅ Exported .pcap file
 
 ✅ Wrote a short summary report
-
-✅ Ready to answer interview questions
 
 ---
