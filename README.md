@@ -46,9 +46,9 @@
 
 ### 📌 Title: Network Traffic Analysis Using Wireshark
 
-**Date:** [Insert Date]
+**Date:** [Put the date when you use network traffic]
 
-**Analyst:** [Your Name]
+**Analyst:** [My name - Gourav]
 
 ### 🔍 Overview:
 
