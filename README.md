@@ -38,8 +38,7 @@
     - Go to **File > Save As**
     - Choose location and save as `.pcap` or `.pcapng`
 8. **Summarize Findings**
-    - Write a short report of what you observed
-
+    - Writing what I had found in Report, as shown in Below Summery
 ---
 
 ## 📄 Summary Report
